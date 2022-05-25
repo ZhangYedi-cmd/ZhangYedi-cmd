@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ZhangYedi
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Goland
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, 我是张业頔
+- 👀 目前是一名在校大学生
+- 🌱 在这里，我将持续分享我的学习心得以及技术干货
+
