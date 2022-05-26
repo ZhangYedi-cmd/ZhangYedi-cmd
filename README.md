@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yedi Zhang</h1>
+<h1 align="left">Hi 👋, I'm Yedi Zhang</h1>
 
-<h3 align="center">From Tianjin University of science and technology</h3>
+<h3 align="left">From Tianjin University of science and technology</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
