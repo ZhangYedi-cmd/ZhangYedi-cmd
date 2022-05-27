@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **178320369@qq.com**
 
-- 💎 [flask工程化模板](https://github.com/ZhangYedi-cmd/flaskApi) | [基于SpringBoot的用户中心](https://github.com/ZhangYedi-cmd/UserCenter) | [校园纳新系统](https://github.com/ZhangYedi-cmd/imaker-website) | [web前端项目部署](https://github.com/ZhangYedi-cmd/web-deploy)  | [GO语言入门到入土](https://github.com/ZhangYedi-cmd/Go-Study)  
+- 💎 [flask工程化模板](https://github.com/ZhangYedi-cmd/flaskApi) | [开箱即用的用户中心](https://github.com/ZhangYedi-cmd/UserCenter) | [校园纳新系统](https://github.com/ZhangYedi-cmd/imaker-website) | [web前端项目部署](https://github.com/ZhangYedi-cmd/web-deploy)  | [GO语言入门到入土](https://github.com/ZhangYedi-cmd/Go-Study)  
  
 ### Data
 
