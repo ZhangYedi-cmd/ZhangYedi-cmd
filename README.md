@@ -14,8 +14,4 @@
 
 - 📫 How to reach me **178320369@qq.com**
 
-- 💎  [GO语言入门到入土](https://github.com/ZhangYedi-cmd/Go-Study) | [开箱即用的用户中心](https://github.com/ZhangYedi-cmd/UserCenter) | [前端部署](https://github.com/ZhangYedi-cmd/web-deploy)  |  [flask开发模板](https://github.com/ZhangYedi-cmd/flaskApi)
- 
-
-
 ![:name](https://count.getloli.com/get/@:ZhangYedi-cmd)  
