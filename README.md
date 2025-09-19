@@ -2,13 +2,6 @@
 
 I'm Yedi, a passionate front-end developer with a non-professional background but an insatiable curiosity for computer technology. Welcome to my GitHub – this space showcases my learning journey, project experiments, and technical insights. Feel free to reach out for discussions and collaborations! 🤝
 
-## About Me 🧑💻
-I thrive on exploring diverse front-end technologies and solving complex problems with elegant solutions 🚀. Beyond coding, I'm a multi-faceted enthusiast:
-- 🎮 Gaming: PS5, Nintendo Switch, LOL, and an ever-growing collection of consoles
-- 📖 Reading: A voracious reader with eclectic interests
-- 🚴 Cycling: An avid cyclist (despite being on a budget!)
-- ... and always open to new hobbies! 🌟
-
 ## Professional Experience 💼
 ### Meituan | Front-end Developer
 *June 2024 - Present*  
