@@ -1,30 +1,23 @@
-大家好,  我是Yedi, 欢迎大家来到我的Github🤩，这里是我在学习过程中的一些总结和思考🤔，欢迎大家和我交流。
-
-## 关于我 😯
-双非非科班出身，热爱计算机技术，喜欢探索前端领域的各种解决方案和技术栈🚀。
-同时，我也有很多兴趣爱好，属于又菜又爱玩的那种，包括但不限于：
-- 🎮 游戏： PS5，NS，LOL 等, 主机偏多。
-- 📖 读书：啥都爱看。
-- 🚴 骑车：又菜又爱骑。
-- ......
-
-## 工作经历
-2024.6 - 至今  美团 到店餐饮B端系统研发,  RN组件库维护，Web性能优化，团队代码TS-Checker。
-
-
-实习经历 💼
-
-
-2024.1 - 2024.4（大四）美团 到店研发平台，负责商家平台的跨端开发，组件库开发，标准化框架维护。
-
-
-2023.4 - 2023.10（大三）百度  移动生态事业群，负责百度旗下问一问小程序多端适配开发，SDK工具开发。
-
-
-2022.12-2023.4（大三）京东 信息安全部， 负责京东内部安全平台的开发和维护，前端工程化建设， 开源项目。 
-
-
-2022.8 - 2022.11（大二）中科院软件所，负责知识图谱，可视化平台的开发和维护。
-
-
-2021.4 - 2022.2（大一）天津卓盛云科技，负责SAAS平台的开发和维护。
+Hello everyone, I 'm Yedi, welcome to my Github🤩, here are some summaries and thoughts of my learning process 🤔, welcome to exchange with me. 
+ 
+About me 😯 
+Non-professional background, passionate about computer technology, and fond of exploring various solutions and technology stacks in the front-end field 🚀. At the same time, I also have many hobbies. I'm the kind of person who is both inexperienced and loves to have fun, including but not limited to: 
+ 
+🎮 games: PS5, NS, LOL, etc. There are more consoles. 
+📖 Reading: love everything. 
+🚴 cycling: poor and fond of cycling. 
+... 
+Work experience 
+June 2024 - Present: Development of Meituan's in-store catering B-end system, maintenance of RN component library, Web performance optimization, team code TS-Checker. 
+ 
+Internship experience 💼 
+ 
+April 2021 - April 2021 (senior year) Meituan In-Store R&D Platform, responsible for cross-platform development of the merchant platform, component library development, and maintenance of the standardized framework. 
+ 
+From April 2021 to October 2023 (junior year), I served in the Baidu Mobile Ecosystem Business Group, responsible for the multi-terminal adaptation and development of the Wenyiwen mini-program under Baidu, as well as the development of SDK tools. 
+ 
+From December 2022 to April 2022 (junior year), I served in the Information Security Department of JD.com, responsible for the development and maintenance of the internal security platform of JD.com, front-end engineering construction, and open-source projects. 
+ 
+From August 2022 to November 2022 (sophomore year), I worked at the Institute of Software, Chinese Academy of Sciences, responsible for the development and maintenance of knowledge graphs and visualization platforms. 
+ 
+April 2021 - February 2022 (Freshman Year) Tianjin Zhuosheng Cloud Technology, responsible for the development and maintenance of SAAS platforms.
