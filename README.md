@@ -1,6 +1,6 @@
 # Hello everyone! 👋
 
-I'm Yedi, a passionate front-end developer with a non-professional background but an insatiable curiosity for computer technology. Welcome to my GitHub – this space showcases my learning journey, project experiments, and technical insights. Feel free to reach out for discussions and collaborations! 🤝
+I'm Yedi, a passionate front-end developer. Welcome to my GitHub – this space showcases my learning journey, project experiments, and technical insights. Feel free to reach out for discussions and collaborations! 🤝
 
 ## Professional Experience 💼
 ### Meituan | Front-end Developer
